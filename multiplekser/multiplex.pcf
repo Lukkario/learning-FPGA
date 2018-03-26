@@ -1,0 +1,14 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Dec 18 21:30:43 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "DPSwitch<0>" LOCATE = SITE "P70" LEVEL 1;
+COMP "DPSwitch<1>" LOCATE = SITE "P69" LEVEL 1;
+COMP "Switch<0>" LOCATE = SITE "P80" LEVEL 1;
+COMP "LED<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "Switch<1>" LOCATE = SITE "P79" LEVEL 1;
+COMP "Switch<2>" LOCATE = SITE "P78" LEVEL 1;
+COMP "Switch<3>" LOCATE = SITE "P77" LEVEL 1;
+SCHEMATIC END;
+
